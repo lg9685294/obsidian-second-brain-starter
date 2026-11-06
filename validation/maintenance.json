@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "checked": [
+    "packaged assets, runtime files, deterministic ZIP and checksum agree",
+    "60 local Markdown resources resolve",
+    "wiki links resolve in both example vaults",
+    "new-vault plan, creation, optional runtime staging and existing-note protection",
+    "PASS: content and attachment-only notes; timezone; safe paths; preserved text; idempotent save; failed-save recovery; attachment links; interrupted-save recovery."
+  ],
+  "native_obsidian_tested": false,
+  "independent_ai_invocation_tested": false,
+  "remote_download_install_and_star_tested": false
+}

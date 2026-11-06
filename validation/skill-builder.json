@@ -10,7 +10,7 @@
     "optional plugin runtime staged without enabling it"
   ],
   "skill_frontmatter_validator": "passed",
-  "bundle_sha256": "5af949730b517df471d3f0f0f8fba27fb0ff16a9f31291163bec4ff4b771e69d",
+  "bundle_sha256": "fba73d4b9449f94d3b4687061d8eb80c61edcab5644ac5df01d4046aa23e7db1",
   "native_obsidian_public_version_tested": false,
   "independent_ai_skill_invocation_tested": false,
   "real_course_timestamps_tested": false,

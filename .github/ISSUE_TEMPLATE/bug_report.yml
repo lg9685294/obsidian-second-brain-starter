@@ -1,0 +1,25 @@
+name: 使用问题
+description: 记录安装、保存、检索或附件问题
+title: "[问题] "
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: 使用环境
+      description: 系统、Obsidian 版本、项目版本；通过 AI 使用时补充工具名称。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 怎样重现
+      description: 按顺序写操作步骤，优先使用虚构示例。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 预期与实际结果
+      description: 说明是否影响笔记或附件保存；可附去掉个人信息的截图。
+    validations:
+      required: true

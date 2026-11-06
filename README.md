@@ -55,6 +55,7 @@ plugins/          录入表单源码与运行文件
 prompts/          日常整理、检索和交接提示词
 docs/             使用说明与截图
 downloads/        可独立使用的 Skill 文件包
+scripts/          打包与维护检查
 validation/       检查结果
 ```
 
@@ -71,12 +72,15 @@ Skill 格式、新库创建、已有内容保护和示例来源链已检查。�
 ## 文档
 
 - [查看搭建方法](docs/skill-summary.md)
+- [安装与更新](docs/install-and-update.md)
+- [常见问题](docs/faq.md)
 - [Obsidian 入门](docs/obsidian-quickstart.md)
 - [表单安装](docs/quick-start.md)
 - [AI 协作流程](docs/ai-workflow.md)
 - [成果整理与清理](docs/asset-workflow.md)
 - [日常提示词](prompts/README.md)
 - [参与改进](CONTRIBUTING.md)
+- [更新记录](CHANGELOG.md) / [版本下载](https://github.com/lg9685294/obsidian-second-brain-starter/releases)
 
 ## 许可证
 
