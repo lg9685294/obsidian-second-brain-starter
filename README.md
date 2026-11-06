@@ -4,7 +4,7 @@
 
 [快速开始](#快速开始) · [搭建方法](docs/skill-summary.md) · [Skill 原文](skills/obsidian-second-brain-builder/SKILL.md) · [MIT 许可](LICENSE)
 
-第一次使用 Obsidian，可以先看 [AI 安装与入门说明](https://github.com/lg9685294/obsidian-ai-guide)。
+第一次使用 Obsidian，可以先看 [用AI 安装obsidian与入门说明](https://github.com/lg9685294/obsidian-ai-guide)。
 
 ## 快速开始
 
