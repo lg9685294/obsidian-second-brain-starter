@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "github_published": false,
+  "markdown_compatible": true,
+  "native_display_preview": "local approximation",
+  "checked": [
+    "relative documentation links",
+    "relative images",
+    "table layout",
+    "repository-root navigation"
+  ]
+}

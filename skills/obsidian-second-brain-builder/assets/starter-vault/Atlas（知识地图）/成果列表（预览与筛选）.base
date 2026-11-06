@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "asset"
+properties:
+  file.name:
+    displayName: 成果
+  note.category:
+    displayName: 分类
+  note.adoption:
+    displayName: 采用情况
+  note.availability:
+    displayName: 文件情况
+views:
+  - type: cards
+    name: 看预览
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 0.67
+    order:
+      - file.name
+      - note.category
+      - note.adoption
+  - type: table
+    name: 文件入口
+    order:
+      - file.name
+      - note.availability

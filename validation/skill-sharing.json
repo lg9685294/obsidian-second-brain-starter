@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checked": [
+    "building prompt visible in first desktop screen",
+    "copy button returns exact build instructions using isolated clipboard",
+    "390px and 360px page and prompt fit",
+    "summary and skill-reference navigation resolve",
+    "GitHub-style README links to build method"
+  ],
+  "actual_native_obsidian_operations": false,
+  "github_published": false
+}

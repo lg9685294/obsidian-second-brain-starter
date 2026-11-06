@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checked": [
+    "repository file list and README layout",
+    "README opening and quick-start anchor",
+    "exact prompt copy using isolated clipboard",
+    "390px page fit",
+    "skill source Preview and Code views"
+  ],
+  "preview": "local GitHub-style simulation",
+  "prompt_actions_executed": false,
+  "remote_download_install_and_star_tested": false,
+  "github_published": false
+}

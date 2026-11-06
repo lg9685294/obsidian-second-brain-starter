@@ -1,0 +1,24 @@
+{
+  "browser": "Chrome desktop headless",
+  "tested_widths": [
+    1440,
+    1280,
+    390
+  ],
+  "passed": [
+    "five scene controls rendered",
+    "scene draft isolation",
+    "draft restore after reload",
+    "image attachment restore",
+    "Markdown save",
+    "device timezone",
+    "new draft after save",
+    "attachment-only save",
+    "Markdown download",
+    "README images loaded",
+    "no full-page narrow overflow",
+    "no browser page errors",
+    "direct file open and save in Chrome"
+  ],
+  "native_obsidian_public_version_tested": false
+}

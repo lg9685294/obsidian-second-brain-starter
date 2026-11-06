@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checked": [
+    "AI in page title",
+    "two AI actions are primary sections",
+    "copy buttons copy exact instructions using isolated test clipboard",
+    "manual fallback collapsed and expandable",
+    "both desktop commands visible",
+    "390px and 360px prompt readability without horizontal scrolling",
+    "GitHub and documentation variants"
+  ],
+  "actual_software_installed": false,
+  "github_published": false
+}

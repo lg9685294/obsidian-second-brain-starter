@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+**/.obsidian/workspace*.json
+**/.obsidian/plugins/*/data.json
+private/

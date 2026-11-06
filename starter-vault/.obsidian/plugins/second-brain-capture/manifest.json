@@ -1,0 +1,9 @@
+{
+  "id": "second-brain-capture",
+  "name": "记一笔 · 新笔记表单",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "用会议、课堂、网页、灵感和项目五种表单保存本地Markdown与附件。",
+  "author": "Second Brain Starter contributors",
+  "isDesktopOnly": true
+}

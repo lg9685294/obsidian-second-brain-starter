@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "preview_pages": 10,
+  "widths": [
+    1440,
+    768,
+    390,
+    360
+  ],
+  "typography": {
+    "h1": "32px",
+    "body": "16px",
+    "h2": "24px",
+    "background": "rgb(255, 255, 255)",
+    "firstParagraphBold": false
+  },
+  "checked": [
+    "opening guide reference",
+    "guide to overview navigation",
+    "selected document navigation",
+    "all section anchors resolve",
+    "active section tracking",
+    "mobile contents open and jump",
+    "16px body without subtitle styling",
+    "images loaded",
+    "no full-page horizontal overflow",
+    "no script errors"
+  ],
+  "actual_new_user_installation_tested": false
+}

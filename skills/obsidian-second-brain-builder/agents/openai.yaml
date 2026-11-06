@@ -1,0 +1,4 @@
+interface:
+  display_name: "搭建个人知识库"
+  short_description: "从零搭建或完善 Obsidian 第二大脑，配置目录、表单、检索与资料归档"
+  default_prompt: "使用 $obsidian-second-brain-builder，帮我搭建一个目录清楚、能用自然语言存入和找回资料的 Obsidian 个人知识库。"

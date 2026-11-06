@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "version": "0.1.0-review-draft",
+  "readme_characters": 2228,
+  "markdown_notes_and_docs": 95,
+  "link_checks": {
+    "markdown_links": 76,
+    "wiki_links": 49,
+    "html_resources": 390,
+    "structured_files": 23
+  },
+  "privacy_scan": "passed; public package built from allowlisted code and fictional examples",
+  "plugin_test": "PASS: content and attachment-only notes; timezone; safe paths; preserved text; idempotent save; failed-save recovery; attachment links; interrupted-save recovery.",
+  "plugin_checks_reused_for_documentation_only_revision": true,
+  "javascript_syntax": "passed",
+  "runtime_matches_starter_vault": true,
+  "browser_report": "browser-checks.json",
+  "native_obsidian_public_version_tested": false,
+  "github_published": false,
+  "guide_report": "guide-checks.json",
+  "github_adaptation_report": "github-adaptation.json",
+  "ai_onboarding_report": "ai-onboarding.json",
+  "skill_builder_report": "skill-builder.json",
+  "skill_sharing_report": "skill-sharing.json",
+  "github_builder_report": "github-builder.json"
+}
